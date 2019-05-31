@@ -1,0 +1,94 @@
+
+>------------------------------->--------------------------------------->
+  VAR_TO_GRAPH: 		>	List of current contributing	>
+				>		to ion pools		>
+>------------------------------->--------------------------------------->
+	GRPH_CHNL:		>	Graph channel			>
+>------------------------------->--------------------------------------->
+	1			>	GAIN of Channel			>
+	time<{ivr}            	>	Var Name for X-axis		>
+		5          	>	Number of Tic Marks		>
+		0.00         	>	Min Value of X			>
+		5         	>	Max Value of X			>
+		red          	>	Color of Range			>
+	V[SN_1....]<{svr} 	>	Var Name for Y-axis		>
+		7           	>	Number of Tic Marks		>
+		-80.0       	>	Min Value of Y			>
+		60.0        	>	Max Value of Y			>
+		red           	>	Color of RAnge			>
+>	V[SN_2....]<{svr} 	>	Var Name for Y-axis		>
+>		7           	>	Number of Tic Marks		>
+>		-80.0       	>	Min Value of Y			>
+>		60.0        	>	Max Value of Y			>
+>		red           	>	Color of RAnge			>
+>	V[SN_3....]<{svr} 	>	Var Name for Y-axis		>
+>		7           	>	Number of Tic Marks		>
+>		-80.0       	>	Min Value of Y			>
+>		60.0        	>	Max Value of Y			>
+>		red           	>	Color of RAnge			>
+>------------------------------->--------------------------------------->
+	GRPH_CHNL:		>	Graph channel			>
+>------------------------------->--------------------------------------->
+	1			>	GAIN of Channel			>
+	time<{ivr}            	>	Var Name for X-axis		>
+		5          	>	Number of Tic Marks		>
+		0.00         	>	Min Value of X			>
+		5         	>	Max Value of X			>
+		red          	>	Color of Range			>
+	V[SN_4....]<{svr} 	>	Var Name for Y-axis		>
+		7           	>	Number of Tic Marks		>
+		-80.0       	>	Min Value of Y			>
+		60.0        	>	Max Value of Y			>
+		red           	>	Color of RAnge			>
+>------------------------------->--------------------------------------->
+	GRPH_CHNL:		>	Graph channel			>
+>------------------------------->--------------------------------------->
+	1			>	GAIN of Channel			>
+	time<{ivr}            	>	Var Name for X-axis		>
+		5          	>	Number of Tic Marks		>
+		0.00         	>	Min Value of X			>
+		5.0         	>	Max Value of X			>
+		red          	>	Color of Range			>
+	V[LP_1....]<{svr} 	>	Var Name for Y-axis		>
+		7           	>	Number of Tic Marks		>
+		-80.0       	>	Min Value of Y			>
+		60.0        	>	Max Value of Y			>
+		red           	>	Color of RAnge			>
+>------------------------------->--------------------------------------->
+	GRPH_CHNL:		>	Graph channel			>
+>------------------------------->--------------------------------------->
+	1			>	GAIN of Channel			>
+	time<{ivr}            	>	Var Name for X-axis		>
+		5          	>	Number of Tic Marks		>
+		0.00         	>	Min Value of X			>
+		5.0         	>	Max Value of X			>
+		red          	>	Color of Range			>
+	V[MN....]<{svr} 	>	Var Name for Y-axis		>
+		7           	>	Number of Tic Marks		>
+		-80.0       	>	Min Value of Y			>
+		60.0        	>	Max Value of Y			>
+		red           	>	Color of RAnge			>
+>------------------------------->--------------------------------------->
+>	GRPH_CHNL:		>	Graph channel			>
+>------------------------------->--------------------------------------->
+>	1			>	GAIN of Channel			>
+>	time<{ivr}            	>	Var Name for X-axis		>
+>		5          	>	Number of Tic Marks		>
+>		0.00         	>	Min Value of X			>
+>		5.0         	>	Max Value of X			>
+>		red          	>	Color of Range			>
+> PSM[MN.>----.SN_1.exc.]<{ivr} 	>	Var Name for Y-axis		>
+>		2           	>	Number of Tic Marks		>
+>		0.0       	>	Min Value of Y			>
+>		2.0        	>	Max Value of Y			>
+>		red           	>	Color of RAnge			>
+> TR[GLU.SN_1...]<{ivr} 		>	Var Name for Y-axis		>
+>		2           	>	Number of Tic Marks		>
+>		0.0       	>	Min Value of Y			>
+>		2.0        	>	Max Value of Y			>
+>		red           	>	Color of RAnge			>
+>------------------------------->--------------------------------------->
+	END:			>					>
+>------------------------------->--------------------------------------->
+
+END:
